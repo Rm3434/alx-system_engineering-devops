@@ -1,2 +1,2 @@
 #!/bin/bash
-chmot a+x ./hello
+chmod +x hello
